@@ -1,0 +1,62 @@
+[03:04:11] === PORING WORLD BOT v5.0 – FINAL FIX ===
+[03:04:11] USING YOUR COLOR: BGR=(154, 0, 227) #E3009A
+[03:04:11] Window region: (661, 157, 1024, 791)
+[03:04:11] HOTKEYS: Up=Pause, Down=Stop, P=Pick Color
+[03:04:11] 5s countdown...
+[03:04:16] Saved debug_mask_pink_1763233456.png
+[03:04:16] Saved debug_screen_1763233456.png
+[03:04:16] Found 44 pink contours
+[03:04:16] TARGET LOCKED → (789, 187) (area=774)
+[03:04:16] ATTACK → (789, 187) | 512px
+[03:04:21] Saved debug_mask_pink_1763233461.png
+[03:04:21] Saved debug_screen_1763233461.png
+[03:04:21] Found 42 pink contours
+[03:04:21] TARGET LOCKED → (691, 187) (area=160)
+[03:04:21] ATTACK → (691, 187) | 98px
+[03:04:27] Emote F11
+[03:04:27] Saved debug_mask_pink_1763233467.png
+[03:04:27] Saved debug_screen_1763233467.png
+[03:04:27] Found 25 pink contours
+[03:04:27] IDLE – no pink monsters
+[03:04:27] Break 4.9s
+[03:04:32] Saved debug_mask_pink_1763233472.png
+[03:04:32] Saved debug_screen_1763233472.png
+[03:04:32] Found 19 pink contours
+[03:04:32] IDLE – no pink monsters
+[03:04:33] Saved debug_mask_pink_1763233473.png
+[03:04:33] Saved debug_screen_1763233473.png
+[03:04:33] Found 18 pink contours
+[03:04:33] IDLE – no pink monsters
+[03:04:34] Saved debug_mask_pink_1763233474.png
+[03:04:34] Saved debug_screen_1763233474.png
+[03:04:34] Found 20 pink contours
+[03:04:34] IDLE – no pink monsters
+[03:04:35] Saved debug_mask_pink_1763233475.png
+[03:04:35] Saved debug_screen_1763233475.png
+[03:04:35] Found 12 pink contours
+[03:04:35] IDLE – no pink monsters
+[03:04:36] Saved debug_mask_pink_1763233476.png
+[03:04:36] Saved debug_screen_1763233476.png
+[03:04:36] Found 16 pink contours
+[03:04:36] IDLE – no pink monsters
+[03:04:38] Saved debug_mask_pink_1763233478.png
+[03:04:38] Saved debug_screen_1763233478.png
+[03:04:38] Found 15 pink contours
+[03:04:38] IDLE – no pink monsters
+[03:04:40] Break 7.0s
+[03:04:47] Saved debug_mask_pink_1763233487.png
+[03:04:47] Saved debug_screen_1763233487.png
+[03:04:47] Found 16 pink contours
+[03:04:47] IDLE – no pink monsters
+[03:04:48] Saved debug_mask_pink_1763233488.png
+[03:04:48] Saved debug_screen_1763233488.png
+[03:04:48] Found 15 pink contours
+[03:04:48] IDLE – no pink monsters
+[03:04:49] Break 4.1s
+[03:04:49] STOPPED – Down Arrow
+[03:04:53] Emote F10
+[03:04:53] Saved debug_mask_pink_1763233493.png
+[03:04:53] Saved debug_screen_1763233493.png
+[03:04:53] Found 7 pink contours
+[03:04:53] IDLE – no pink monsters
+[03:04:54] BOT STOPPED
